@@ -1,2 +1,2 @@
-# Paradigmas_de_Linguagens_de_Programacao
+# Paradigmas de Linguagens de Programação
 Atividades realizadas na disciplina Paradigma de Linguagens de Programação
